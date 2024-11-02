@@ -1,0 +1,16 @@
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\bin\Debug\net8.0-windows\OOP_Reporting.exe
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\bin\Debug\net8.0-windows\OOP_Reporting.deps.json
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\bin\Debug\net8.0-windows\OOP_Reporting.runtimeconfig.json
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\bin\Debug\net8.0-windows\OOP_Reporting.dll
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\bin\Debug\net8.0-windows\OOP_Reporting.pdb
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.Form1.resources
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.vbproj.GenerateResource.cache
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.AssemblyInfoInputs.cache
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.AssemblyInfo.vb
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.dll
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\refint\OOP_Reporting.dll
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.pdb
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\OOP_Reporting.genruntimeconfig.cache
+C:\Users\QCU\source\repos\OOP_Reporting\OOP_Reporting\obj\Debug\net8.0-windows\ref\OOP_Reporting.dll
